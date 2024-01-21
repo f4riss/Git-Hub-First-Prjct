@@ -1,0 +1,92 @@
+.logo{
+    position: fixed;
+    right: 100px;
+    top: 30px;
+    cursor: pointer;    
+}
+header{
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(137, 137, 137, 0.3) 0px 30px 60px -30px;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+p{
+    text-align: center;
+}
+h4{
+    display: inline-block;
+    position: relative;
+    right: 300px;
+    cursor: pointer;
+    margin-left: 80px;
+}
+.first{
+    position: relative;
+    right: 700px;
+    height: 35px;
+    width: 120px;    
+    border-radius: 4px;
+    cursor: pointer;
+}
+#second{  
+    color: #4DABBA;
+    border: #4DABBA solid 1px;
+  
+    background-color: white;
+}
+#third{
+    border: none;
+    background-color: #4DABBA;
+    color: white;
+}
+.fourth{
+    border: black solid 2px;
+    border-radius: 5px;
+    width: 230px;
+    height: 330px;
+    display: inline-block;
+    text-align: center;
+    margin: 40px;
+    position: relative;
+    top: 200px;
+    right: 500px;
+}
+.img{
+    height: 40px;
+    margin-top: 20px ;
+}
+.sixth{
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: black solid 2px;
+    border-radius: 30px;
+}
+#seventh{
+    background-color: white;
+    color: black;
+    border: white;
+}
+#eighth{
+    background-color:rgb(203, 26, 26);
+    color: white;
+    border:rgb(203, 26, 26);
+}
+.tenth{
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+background-color: #4DABBA;
+height: 100%;
+width:-1px ;
+}
+.last{
+    display: inline-block;
+    margin: 30px;
+    cursor: pointer;
+
+}
